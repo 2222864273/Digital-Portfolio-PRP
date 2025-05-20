@@ -2,13 +2,12 @@
 Work Readiness Digital Portfolio - PRP370S/PRP371S/PRP372S
 
 # 💼 Digital Portfolio – Work Readiness Training 
-
-Diploma in Information and Communication Technology
-Cape Peninsula University of Technology  
-PRP370S / PRP371S / PRP372S
-Name:Junior Tlangelani Lehloggonolo
-Surname:Mageza
-Student Number: 222864273 
+***Diploma in Information and Communication Technology***
+***Cape Peninsula University of Technology***
+***PRP370S / PRP371S / PRP372S***
+***Name:Junior Tlangelani Lehloggonolo***
+***Surname:Mageza***
+***Student Number: 222864273*** 
 
 
 ## 📌 About This Portfolio
