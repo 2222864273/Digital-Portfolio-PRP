@@ -1,6 +1,9 @@
 # Digital-Portfolio-PRP
 Work Readiness Digital Portfolio - PRP370S/PRP371S/PRP372S
 
+
+
+
 # 💼 Digital Portfolio – Work Readiness Training 
 ***Diploma in Information and Communication Technology***
 ***Cape Peninsula University of Technology***
@@ -8,6 +11,8 @@ Work Readiness Digital Portfolio - PRP370S/PRP371S/PRP372S
 ***Name:Junior Tlangelani Lehloggonolo***
 ***Surname:Mageza***
 ***Student Number: 222864273*** 
+
+
 
 
 ## 📌 About This Portfolio
@@ -18,6 +23,10 @@ my CV, cover letter, project documentation, and a personal reflection. It highli
 growth, practical skills, and readiness for the workplace in the ICT field.
 
 ---
+
+
+
+
 
 ## 📂 Collected Artefacts
 
@@ -31,11 +40,16 @@ growth, practical skills, and readiness for the workplace in the ICT field.
 
 ---
 
+
+
 ## 🪞 Reflection
 
 Completing this digital portfolio and the Work Readiness Training gave me the opportunity to reflect 
 on my personal and professional growth. I’ve learned how to present myself to potential employers, 
 create professional documentation, and confidently showcase my technical skills.
+
+
+
 
 
 ### Key takeaways:
@@ -47,6 +61,8 @@ create professional documentation, and confidently showcase my technical skills.
 - Understood the importance of self-reflection and planning for my career journey
 
 I am now more confident and prepared to enter the workplace as an aspiring software developer
+
+
 
 
 ## 📞 Contact Information
