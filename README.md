@@ -54,7 +54,7 @@ I am now more confident and prepared to enter the workplace as an aspiring softw
   
 - **Email:** [tlangijunior212@gmail.com]  
 - **GitHub:** [https://github.com/2222864273](https://github.com/2222864273)  
-- **LinkedIn :** [https://linkedin.com/in/Junior Tlangelani Lehlogonolo Mageza](https://linkedin.com/in/juniortlangelanilehlogonolomageza)
+- **LinkedIn :** [https://linkedin.com/in/Junior Tlangelani Lehlogonolo Mageza](www.linkedin.com/in/junior-tlangelani-lehlogonolo-mageza-782160263)
 
 
 
