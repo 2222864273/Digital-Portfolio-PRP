@@ -32,7 +32,7 @@ growth, practical skills, and readiness for the workplace in the ICT field.
 
 | Artefact | Description | Link |
 |---------|-------------|------|
-| 📄 CV Document | My professional curriculum vitae | [View CV]() |
+| 📄 CV Document | My professional curriculum vitae | [View CV](Junior Mageza CV.pdf) |
 | 💌 Cover Letter | Application letter for software developer/internship position | [View Cover Letter]() |
 | 📊 Project Presentation | Capstone project: [Student Connect / Auction Website] | [] |
 | 📘 Project Report | Summary of group project with documentation | [L] |
