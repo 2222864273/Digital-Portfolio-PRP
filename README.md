@@ -33,7 +33,7 @@ growth, practical skills, and readiness for the workplace in the ICT field.
 | Artefact | Description | Link |
 |---------|-------------|------|
 | 📄 CV Document | My professional curriculum vitae | [View CV](https://github.com/2222864273/Digital-Portfolio-PRP/blob/main/JuniorMageza_CV.pdf) |
-| 💌 Cover Letter | Application letter for software developer/internship position | [View Cover Letter](https://github.com/2222864273/Digital-Portfolio-PRP/blob/main/**JuniorMageza_CoverLetter.pdf**) |
+| 💌 Cover Letter | Application letter for software developer/internship position | [View Cover Letter](https://github.com/2222864273/Digital-Portfolio-PRP/blob/main/JuniorMageza_CoverLetter.pdf**) |
 | 📊 Project Presentation | Capstone project: [Student Connect / Auction Website] | [] |
 | 📘 Project Report | Summary of group project with documentation | [L] |
 | 💻 Code Sample | GitHub repo showcasing a project | [] |
