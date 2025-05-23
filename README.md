@@ -145,7 +145,7 @@ I am now more confident and prepared to enter the workplace as an aspiring softw
 
   
 - **Email:** [tlangijunior212@gmail.com]
-- - **Phone Number:** [0717038064] 
+-  **Phone Number:** [0717038064] 
 - **GitHub:** [https://github.com/2222864273](https://github.com/2222864273)  
 
 
