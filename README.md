@@ -62,7 +62,7 @@ growth, practical skills, and readiness for the workplace in the ICT field.
 ### Personality Assessment  
 **Evidence**:  
 > I completed a personality assessment using the 16Personalities tool.  
-> 📎 [View Personality Results]()
+> 📎 [View Personality Results](https://github.com/2222864273/Digital-Portfolio-PRP/blob/main/Personality%20Assessment.png)
 
 **Reflection (STAR)**:
 > **S**: As part of my personal development, I completed the 16Personalities (MBTI) test.  
