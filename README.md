@@ -1,12 +1,19 @@
 # Junior Mageza's Digital-Portfolio
 
+---
+---
+---
 # 💼 Work Readiness Training 
 
 
-
+---
+---
 
 
 ## 📌 About This Portfolio
+---
+---
+
 
 🎓 Aspiring IT Student | Passionate About Tech & Innovation
 
@@ -22,9 +29,11 @@ my CV, cover letter, project documentation, and a personal reflection. It highli
 growth, practical skills, and readiness for the workplace in the ICT field.
 
 ---
-
+---
+---
 
 ## 📁 Portfolio of Evidence
+---
 
 ### Career Counselling  
 **Evidence**:  
