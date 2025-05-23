@@ -92,7 +92,7 @@ growth, practical skills, and readiness for the workplace in the ICT field.
 ### CV Submission  
 **Evidence**:  
 > I uploaded the final version of my CV in this GitHub repository.  
-> 📎 [View CV Submission]( )
+> 📎 [View CV Submission](https://github.com/2222864273/Digital-Portfolio-PRP/blob/main/CV%20submission.png )
 
 **Reflection (STAR)**:
 > **S**: After finalizing my CV, I had to submit it on GitHub as part of my portfolio.  
