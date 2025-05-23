@@ -69,8 +69,9 @@ growth, practical skills, and readiness for the workplace in the ICT field.
 **Evidence**:  
 > I completed a online shot cv creation course.   
 > 📎 [CV creation Results](https://github.com/2222864273/Digital-Portfolio-PRP/blob/main/CV%20creation.png )
+---
 > I created a professional CV using a modern template.  
-> 📎 [View my CV](https://github.com/YourUsername/YourRepo/blob/main/evidence/YourName_CV.pdf)
+> 📎 [View my CV](https://github.com/2222864273/Digital-Portfolio-PRP/blob/main/Junior%20Mageza%20CV.pdf)
 
 
 **Reflection (STAR)**:
