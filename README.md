@@ -1,4 +1,4 @@
-# Digital-Portfolio-PRP
+# Digital-Portfolio
 
 # 💼 Digital Portfolio – Work Readiness Training 
 
@@ -7,6 +7,14 @@
 
 
 ## 📌 About This Portfolio
+
+🎓 Aspiring IT Student | Passionate About Tech & Innovation
+
+I’m currently pursuing a Diploma in Information Technology, where I’m building a solid foundation in areas such as software development. My academic journey is driven by a genuine passion for solving problems, learning new technologies, and creating solutions that make a real-world impact.
+
+Through hands-on projects and coursework, I’ve developed skills in Java. I’m always eager to take on new challenges that push me to grow and understand the dynamics of programming aspects and collaborating on team-based tech solutions.
+
+💡 My goal is to contribute to the ever-evolving tech landscape and make a meaningful difference in the world through innovation, creativity, and continuous learning.
 
 This digital portfolio was created as part of the Project Presentation 3 subject. 
 It showcases the key artefacts developed during the Work Readiness Training, including
@@ -86,7 +94,6 @@ growth, practical skills, and readiness for the workplace in the ICT field.
 
 
 
-
 ## 📂 Collected Artefacts
 
 | Artefact | Description | Link |
@@ -125,10 +132,11 @@ I am now more confident and prepared to enter the workplace as an aspiring softw
 
 
 ## 📞 Contact Information
+
   
-- **Email:** [tlangijunior212@gmail.com]  
+- **Email:** [tlangijunior212@gmail.com]
+- - **Phone Number:** [0717038064] 
 - **GitHub:** [https://github.com/2222864273](https://github.com/2222864273)  
-- **LinkedIn :** [https://linkedin.com/in/Junior Tlangelani Lehlogonolo Mageza](www.linkedin.com/in/junior-tlangelani-lehlogonolo-mageza-782160263)
 
 
 
