@@ -1,6 +1,6 @@
-# Digital-Portfolio
+# Junior Mageza's Digital-Portfolio
 
-# 💼 Digital Portfolio – Work Readiness Training 
+# 💼 Work Readiness Training 
 
 
 
