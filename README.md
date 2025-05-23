@@ -68,7 +68,7 @@ growth, practical skills, and readiness for the workplace in the ICT field.
 ### CV Creation  
 **Evidence**:  
 > I created a professional CV using a modern template.  
-> 📎 [Download CV]( )
+> 📎 [Download CV](https://github.com/2222864273/Digital-Portfolio-PRP/blob/main/CV%20creation.png )
 
 **Reflection (STAR)**:
 > **S**: I was required to create a professional CV for this assessment.  
