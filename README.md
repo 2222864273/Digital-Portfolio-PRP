@@ -28,13 +28,13 @@ growth, practical skills, and readiness for the workplace in the ICT field.
 
 ### Career Counselling  
 **Evidence**:  
-> I attended a career counselling session provided by the university.  
+> I did a career development shot course on my Project Presenation module and it took me though the dynamics of understanding the_purpose_of_setting_goals_in_career_counselling,the_outcome_of_effective_career_counselling and so forth.
 > 📎 [View Career Counselling Screenshot]( )
 
 **Reflection (STAR)**:
-> **S**: During work readiness training, I attended a career counselling session provided by our department.  
+> **S**: During work readiness training, I engaged to the career development shot course and went into the depth of counselling .  
 > **T**: My goal was to understand which career paths match my personality, interests, and strengths in ICT.  
-> **A**: I completed a self-assessment and had a one-on-one discussion with the career advisor about roles like software developer, systems analyst, and network technician.  
+> **A**: I completed a self-assessment and had a one-on-one discussion with the career advisor about roles like software developer, and also got a chance to interact with a front-end developer during myinterview with Amazon.  
 > **R**: I discovered that software development aligns with my skills and passion for problem-solving, which helped me set a clear career direction.
 
 ---
