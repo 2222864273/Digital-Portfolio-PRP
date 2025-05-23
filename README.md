@@ -29,7 +29,7 @@ growth, practical skills, and readiness for the workplace in the ICT field.
 ### Career Counselling  
 **Evidence**:  
 > I did a career development shot course on my Project Presenation module and it took me though the dynamics of understanding the_purpose_of_setting_goals_in_career_counselling,the_outcome_of_effective_career_counselling and so forth.
-> 📎 [View Career Counselling Screenshot]( )
+> 📎 [View Career Counselling Screenshot](https://github.com/2222864273/Digital-Portfolio-PRP/blob/main/Career%20Dev.png )
 
 **Reflection (STAR)**:
 > **S**: During work readiness training, I engaged to the career development shot course and went into the depth of counselling .  
