@@ -42,7 +42,7 @@ growth, practical skills, and readiness for the workplace in the ICT field.
 ### Skills and Interests  
 **Evidence**:  
 > I completed a self-assessment to identify my technical and soft skills.  
-> 📎 [View Skills Summary]()
+> 📎 [View Skills Summary](https://github.com/2222864273/Digital-Portfolio-PRP/blob/main/Skills%20and%20Interests.png)
 
 **Reflection (STAR)**:
 > **S**: I participated in a skills and interests self-assessment during the work readiness program.  
