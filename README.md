@@ -111,8 +111,8 @@ growth, practical skills, and readiness for the workplace in the ICT field.
 |---------|-------------|------|
 | 📄 CV Document | My professional curriculum vitae | [View CV](https://github.com/2222864273/Digital-Portfolio-PRP/blob/main/Junior%20Mageza%20CV.pdf) |
 | 💌 Cover Letter | Application letter for software developer/internship position | [View Cover Letter](https://github.com/2222864273/Digital-Portfolio-PRP/blob/main/Junior%20Mageza_COVER%20LETTER.pdf)|
-| 📊 Project Presentation | Capstone project: [Natural-sip] | [https://github.com/2222864273/natural-sip] |
-| 💻 Code Sample | GitHub repo showcasing a project | [https://github.com/2222864273/basic-android-kotlin-compose-training-lemonade] |
+| 📊 Project Presentation | Capstone project: [Natural-sip] | https://github.com/2222864273/natural-sip |
+| 💻 Code Sample | GitHub repo showcasing a project | https://github.com/2222864273/basic-android-kotlin-compose-training-lemonade |
 
 ---
 
@@ -144,8 +144,8 @@ I am now more confident and prepared to enter the workplace as an aspiring softw
 ## 📞 Contact Information
 
   
-- **Email:** [tlangijunior212@gmail.com]
--  **Phone Number:** [0717038064] 
+- **Email:** tlangijunior212@gmail.com
+-  **Phone Number:** 0717038064
 - **GitHub:** [https://github.com/2222864273](https://github.com/2222864273)  
 
 
