@@ -111,7 +111,7 @@ growth, practical skills, and readiness for the workplace in the ICT field.
 |---------|-------------|------|
 | 📄 CV Document | My professional curriculum vitae | [View CV](https://github.com/2222864273/Digital-Portfolio-PRP/blob/main/JUNIOR_MAGEZA_CV.pdf) |
 | 💌 Cover Letter | Application letter for software developer/internship position | [View Cover Letter](https://github.com/2222864273/Digital-Portfolio-PRP/blob/main/Junior%20Mageza_COVER%20LETTER.pdf)|
-| 📊 Project Presentation Documentation | SMART SPEND -SAVINGS APPLICATION  | https://github.com/2222864273/natural-sip |
+| 📊 Project Presentation Documentation | SMART SPEND -SAVINGS APPLICATION  |[View Documentation](https://github.com/2222864273/Digital-Portfolio-PRP/blob/main/Mageza_J_BrandGuide_V1%20(2).pdf.pdf) |
 | 💻 Code Sample |  | https://github.com/2222864273/basic-android-kotlin-compose-training-lemonade |
 
 ---
